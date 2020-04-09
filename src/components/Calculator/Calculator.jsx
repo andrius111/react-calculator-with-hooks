@@ -92,6 +92,7 @@ export default () => {
                 className="text-right"
                 readOnly="readonly"
                 value={ result }
+                data-testid="result"
               />
             </Col>
           </Row>
